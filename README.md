@@ -1,7 +1,5 @@
 Hi there 👋
 
-👋 About Me
-
 Hi, I'm Nur Ahmad Ikmal Bin Azman!  
 I'm passionate about **Cybersecurity**, **Web Development**, and **Technology**. Currently, I'm working on exciting projects that combine security with innovative web solutions.
 
