@@ -16,7 +16,7 @@ I'm passionate about **Cybersecurity**, **Web Development**, and **Technology**.
 - **Other Skills:** Business Management (Thrift Store, Coffee Shop Plans)
 
 ## 🚀 Projects
-- **Development Of Web-Based Inventory Manager with WhatsApp Notification**  
+- **Development Of Web-Based Inventory Manager with Telegram Bot**  
 - **Cybersecurity Awareness Platform** *(In Progress)*  
 
 ## 📫 Connect with Me
